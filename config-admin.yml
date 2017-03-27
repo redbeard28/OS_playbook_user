@@ -5,4 +5,4 @@
   remote_user: root
   become: true
   roles:
-    - create-users-env
+    - config-admin-region
