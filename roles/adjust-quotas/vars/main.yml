@@ -1,0 +1,3 @@
+---
+qoptions: [ '--cores=30', '--cores=30', '--cores=30', '--instances=20', '--instances=20', '--instances=20', '--instances=20', '--instances=20', '--instances=20', '--instances=20', '--cores=20' ]
+tenantname: [ 'project-user1', 'project-user2', 'project-user3', 'project-user4', 'project-user5', 'project-user6', 'project-user7', 'project-user8', 'project-user9', 'MRKT-Proj10', 'MRKT-Proj10' ]
